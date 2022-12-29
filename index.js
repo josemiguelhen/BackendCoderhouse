@@ -5,8 +5,6 @@ const productos = require('./data/products.json');
 const prod = new productManager(productos);
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json())
-app.listen(8080, () => console.log('Server is up and running on port 8080'))
-
 
 app.get('/products', async (req, res)=>{
     console.log(req.query);
@@ -30,7 +28,9 @@ app.get('/products/:pid', async (req, res)=>{
 })
 
 app.get('/', async (req,res)=>{
-    console.log('Mostrar Productos');
+    console.log('Show products');
     res.send(prod);
     
 })
+
+app.listen(8080, () => console.log('Server is up and running on port 8080'))
