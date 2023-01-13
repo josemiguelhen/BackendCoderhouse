@@ -5,10 +5,9 @@
 		"description": "description",
 		"code": "asd",
 		"price": "1000",
-		"status": "true",
 		"stock": "25",
-		"category": "category",
-		"thumbnails": "[]"
+		"category": "category"
+		
 	},
 	{
 		"id": 2,
@@ -16,10 +15,9 @@
 		"description": "description",
 		"code": "asd",
 		"price": "1000",
-		"status": "true",
 		"stock": "25",
-		"category": "category",
-		"thumbnails": "[]"
+		"category": "category"
+		
 	},
 	{
 		"id": 3,
@@ -27,9 +25,7 @@
 		"description": "description",
 		"code": "asd",
 		"price": "1000",
-		"status": "true",
 		"stock": "25",
 		"category": "category",
-		"thumbnails": "[]"
 	}
 ]
