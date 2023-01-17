@@ -49,9 +49,6 @@ router.get("/:pid", async (req, res) => {
   }
 });
 
-router.get("/realtimeproducts", (req, res) => {
-  res.render("realTimeProducts", {});
-});
 
 // POST -> agrega un producto al array de productos
 router.post("/", async (req, res) => {
@@ -61,7 +58,7 @@ router.post("/", async (req, res) => {
     !product.description ||
     !product.price ||
     !product.code ||
-    !product.category ||
+    !product.category
 
   ) {
     res.status(400).send("todos los campos deben ser obligatorios");
