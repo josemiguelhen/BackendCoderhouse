@@ -27,14 +27,14 @@ const httpServer = app.listen(PORT, () => {
 
 // HELPERS
 const readJson = async () => {
-  const data = await fs.readFile("./db/products.json", "utf-8");
+  const data = await fs.readFile("./data/products.json", "utf-8");
   const products = await JSON.parse(data);
   return products;
 };
 
 const writeJson = async (data) => {
   const stringData = await JSON.stringify(data, null, "\t");
-  await fs.writeFile("./db/products.json", stringData, "utf-8");
+  await fs.writeFile("./data/products.json", stringData, "utf-8");
 };
 
 // SOCKETS

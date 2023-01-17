@@ -1,31 +1,29 @@
 [
 	{
-		"id": 1,
-		"title": "new-title",
-		"description": "description",
-		"code": "asd",
-		"price": "1000",
-		"stock": "25",
-		"category": "category"
-		
+		"prod": "holi"
 	},
 	{
-		"id": 2,
-		"title": "title",
-		"description": "description",
-		"code": "asd",
-		"price": "1000",
-		"stock": "25",
-		"category": "category"
-		
+		"prod": "sgrg"
 	},
 	{
-		"id": 3,
-		"title": "title",
-		"description": "description",
-		"code": "asd",
-		"price": "1000",
-		"stock": "25",
-		"category": "category"
+		"prod": "ewr"
+	},
+	{
+		"prod": "gbret"
+	},
+	{
+		"prod": "hcgkyc"
+	},
+	{
+		"prod": "vjhv,"
+	},
+	{
+		"prod": "dgrs4"
+	},
+	{
+		"prod": "thryj"
+	},
+	{
+		"prod": "jtukj"
 	}
 ]
