@@ -1,0 +1,145 @@
+[
+	{
+		"id": 1,
+		"title": "Polera 1",
+		"description": "Polera Naruto",
+		"code": "1",
+		"price": 5000,
+		"stock": 0,
+		"status": true,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/anime2.jpg"
+		]
+	},
+	{
+		"id": 2,
+		"title": "Polera 2",
+		"description": "Polera Totoro",
+		"code": "2",
+		"price": 5000,
+		"stock": 0,
+		"status": true,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/anime3.jpg"
+		]
+	},
+	{
+		"id": 3,
+		"title": "Polera 3",
+		"description": "Polera Ranma 1/2",
+		"code": "3",
+		"price": 5000,
+		"stock": 2,
+		"status": true,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/anime4.jpg"
+		]
+	},
+	{
+		"id": 4,
+		"title": "Polera 4",
+		"description": "Polera Shingueki",
+		"code": "4",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/anime11.jpg"
+		]
+	},
+	{
+		"id": 5,
+		"title": "Polera 5",
+		"description": "Polera Donkey Kong",
+		"code": "5",
+		"price": 5000,
+		"stock": 2,
+		"status": true,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/juegos1.jpg"
+		]
+	},
+	{
+		"id": 6,
+		"title": "Poleron 6",
+		"description": "Poleron canguro Alien",
+		"code": "6",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "polerones",
+		"thumbnail": [
+			"/img/polerocanguro2.jpg"
+		]
+	},
+	{
+		"id": 7,
+		"title": "Poleron 7",
+		"description": "Poleron canguro wolf",
+		"code": "7",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "polerones",
+		"thumbnail": [
+			"/img/polerocanguro3.jpg"
+		]
+	},
+	{
+		"id": 8,
+		"title": "Poleron 8",
+		"description": "Poleron canguro 2001",
+		"code": "8",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "polerones",
+		"thumbnail": [
+			"/img/poleroncaguro5.jpg"
+		]
+	},
+	{
+		"id": 9,
+		"title": "Poleron 9",
+		"description": "Poleron canguro Alien X",
+		"code": "9",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "polerones",
+		"thumbnail": [
+			"/img/poleroncanguro1.jpg"
+		]
+	},
+	{
+		"id": 10,
+		"title": "Poleron 10",
+		"description": "Poleron canguro Apocalypse Now",
+		"code": "10",
+		"price": 10000,
+		"stock": 2,
+		"status": true,
+		"category": "polerones",
+		"thumbnail": [
+			"/img/poleroncanguro4.jpg"
+		]
+	},
+	{
+		"id": 11,
+		"title": "Polera 11",
+		"description": "Polera Fornite",
+		"code": "15",
+		"price": 5000,
+		"stock": 15,
+		"category": "poleras",
+		"thumbnail": [
+			"/img/juegos2.jpg"
+		],
+		"status": true
+	}
+]
